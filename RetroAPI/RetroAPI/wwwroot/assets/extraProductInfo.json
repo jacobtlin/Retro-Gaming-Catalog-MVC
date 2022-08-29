@@ -1,0 +1,122 @@
+[
+	{
+		"productName": "Pac-man",
+		"productDescription": "The player guides the titular Pac-Man through a maze to eat Pac-Dots; when all dots are eaten, Pac-Man is taken to the next stage. Four ghosts, Blinky, Pinky, Inky and Clyde roam the maze, trying to catch Pac-Man - if a ghost touches him, a life is lost. When all lives have been lost, the game ends.",
+		"productImagePath": "assets/img/portfolio/pac-manLogo.png",
+		"productShortDescription": "Pac-Man, originally known as Puckman in Japan, is the initial game in the Pac-Man series. It was created by Toru Iwatani and released by Namco in 1980, and it was published by Bally Midway for U.S. distribution. The game would go on to become a cultural icon worldwide.",
+		"productReview": "Theres more to the game than at first appears.",
+		"productVotes": 9
+	},
+	{
+		"productName": "Pitfall",
+		"productDescription": "The player controls Pitfall Harry and is tasked with collecting all the treasures in a jungle within 20 minutes. The world consists of 255 screens which are horizontally connected in a flip screen manner. Each screen has one or more hazards: quicksand, tarpits, rolling logs, crocodiles, snakes, scorpions, campfires, and swinging vines.",
+		"productImagePath": "assets/img/portfolio/pitfallLogo.png",
+		"productShortDescription": "Pitfall! is a platform video game designed by David Crane for the Atari 2600 and released by Activision in 1982. It received positive reviews upon release and is now considered one of the greatest video games ever made.It was the top video game on the Billboard charts for more than a year, and helped define the flip-screen platform game genre.",
+		"productReview": "A very original cartridge no VCS should be without.",
+		"productVotes": 3
+	},
+	{
+		"productName": "Space Invaders",
+		"productDescription": "Space Invaders is a fixed shooter in which the player moves a laser cannon horizontally across the bottom of the screen and fires at aliens overhead. The aliens begin as five rows of eleven that move left and right as a group, shifting downward each time they reach a screen edge. The goal is to eliminate all of the aliens by shooting them. While the player has three lives, the game ends immediately if the invaders reach the bottom of the screen.",
+		"productImagePath": "assets/img/portfolio/spaceInvadersLogo.png",
+		"productShortDescription": "Space Invaders is considered one of the most influential video games of all time. It helped expand the video game industry from a novelty to a global industry, and ushered in the golden age of arcade video games!",
+		"productReview": "Laid the groundwork for a whole generation.",
+		"productVotes": 6
+	},
+	{
+		"productName": "Super Mario Bros",
+		"productDescription": "Players control Mario, or his brother Luigi in the multiplayer mode, as they traverse the Mushroom Kingdom to rescue Princess Toadstool from King Koopa (later named Bowser). They traverse side-scrolling stages while avoiding hazards such as enemies and pits with the aid of power-ups such as the Super Mushroom, Fire Flower, and Starman.",
+		"productImagePath": "assets/img/portfolio/superMarioLogo.png",
+		"productShortDescription": "Super Mario Bros. is a platform game developed and published by Nintendo for the Nintendo Entertainment System. Released in 1985 for the Famicom in Japan, Super Mario Bros. is frequently cited as one of the greatest video games of all time, with praise for its precise controls.",
+		"productReview": "Worthy of a spot in the hall of fame reserved for truly addictive action games.",
+		"productVotes": 11
+	},
+	{
+		"productName": "The Legend of Zelda",
+		"productDescription": "The series centers on the various incarnations of Link, a courageous young Hylian man, with pointy, elf-like ears; and Princess Zelda, a magical princess that is the mortal reincarnation of the goddess Hylia; as they fight to save the magical land of Hyrule from Ganon, an evil warlord turned demon king, who is the principal antagonist of the series. Ganon wishes to use the Triforce, a sacred relic left behind by the three goddesses that created Hyrule to remake the world in his own dark image.",
+		"productImagePath": "assets/img/portfolio/zeldaLogo.png",
+		"productShortDescription": "The Legend of Zelda is a high fantasy action-adventure video game franchise created by Japanese game designers Shigeru Miyamoto and Takashi Tezuka. Since the original Legend of Zelda was released in 1986, the series has expanded to include 19 entries on all of Nintendo's major game consoles, as well as a number of spin-offs.",
+		"productReview": "Top 50 Games of All Time!",
+		"productVotes": 5
+	},
+	{
+		"productName": "Duck Hunt",
+		"productDescription": "The player is required to successfully shoot a minimum number of targets in order to advance to the next round. Therefore, failure will result directly in a game over. The difficulty increases as the player advances to higher rounds; targets will move faster, and the minimum number of targets to shoot will increase. ",
+		"productImagePath": "assets/img/portfolio/duckHuntLogo.png",
+		"productShortDescription": "Duck Hunt is a 1984 light gun shooter video game developed and published by Nintendo for the Nintendo Entertainment System (NES) video game console and the Nintendo Vs. System arcade hardware. Duck Hunt became popular in arcades and popularized light gun video games by 1985.",
+		"productReview": "The game is fun for a short time, but gets old after a few rounds of play.",
+		"productVotes": 2
+	},
+	{
+		"productName": "Zelda: A Link to the Past",
+		"productDescription": "The story is set many years before the events of the first two Zelda games. The player assumes the role of Link as he journeys to save Hyrule, defeat the demon king Ganon, and rescue the descendants of the Seven Sages. It returns to a top-down perspective similar to the original The Legend of Zelda, dropping the side-scrolling gameplay of Zelda II: The Adventure of Link. It introduced series staples such as parallel worlds and items including the Master Sword.",
+		"productImagePath": "assets/img/portfolio/alttpLogo.png",
+		"productShortDescription": "Released to critical and commercial success, A Link to the Past was a landmark game for Nintendo and is considered one of the greatest video games of all time. It is the third game in The Legend of Zelda series and was released in 1991 in Japan and 1992 in North America and Europe.",
+		"productReview": "Absolute masterpiece and an important part of the Grand Renaissance of the Second Dimension.",
+		"productVotes": 12
+	},
+	{
+		"productName": "Super Metroid",
+		"productDescription": "Super Metroid is a 2D, side-scrolling action-adventure game,[2][3] which primarily takes place on the fictional planet Zebes from the original game—a large, open-ended world with areas connected by doors and elevators.[4]: 18–19  The player controls Samus Aran as she searches the planet for a Metroid that has been stolen by Ridley, the leader of the Space Pirates.[4]: 5  Samus can run, jump, crouch, and fire a weapon in eight directions; she can also perform other actions, such as wall jumping—jumping from one wall to another in rapid succession to reach higher areas.",
+		"productImagePath": "assets/img/portfolio/metroidLogo.png",
+		"productShortDescription": "Super Metroid received acclaim, with praise for its atmosphere, gameplay, music and graphics. It is often cited as one of the best video games of all time. The game sold well and shipped 1.42 million copies worldwide by late 2003.",
+		"productReview": "Great Atmosphere! Easily lives up to everyone's high expectations.",
+		"productVotes": 10
+	},
+	{
+		"productName": "Donkey Kong Country",
+		"productDescription": "Donkey Kong Country is a side-scrolling platform game. The player begins in a world map that tracks their progress and provides access to the 40 levels spread across seven areas. The player attempts to complete each level while traversing the environment, jumping between platforms, and avoiding enemy and inanimate obstacles.",
+		"productImagePath": "assets/img/portfolio/dkcLogo.png",
+		"productShortDescription": "Donkey Kong Country is a 1994 platform game developed by Rare and published by Nintendo for the Super Nintendo Entertainment System (SNES). Critics hailed its visuals as groundbreaking and praised its gameplay and music.",
+		"productReview": "One of the few games that is actually as good as the hype!",
+		"productVotes": 6
+	},
+	{
+		"productName": "Sonic the Hedgehog",
+		"productDescription": "The gameplay centers on Sonic the Hedgehog's ability to run at high speed through levels that include springs, slopes, bottomless pits, and vertical loops. The levels are populated with robot enemies, inside which Dr. Robotnik has trapped animals; destroying a robot frees the animal, but is not necessary to complete the game. The player must also avoid touching spikes, falling into bottomless pits, being crushed by moving walls or platforms, and drowning, which may be prevented by breathing air bubbles from vents.",
+		"productImagePath": "assets/img/portfolio/sonicLogo.png",
+		"productShortDescription": "Sonic the Hedgehog was well received by critics, who praised its visuals, audio, and gameplay. It is widely considered one of the greatest video games of all time.",
+		"productReview": "Eye-popping and gorgeous!",
+		"productVotes": 5
+	},
+	{
+		"productName": "Sonic the Hedgehog 2",
+		"productDescription": "The player character can run, jump, crouch, and attack by curling into a ball.[5] Sonic 2 introduces the spin dash, which allows the player to curl while stationary for a speed boost,[1] and Miles Tails Prower, a fox with two tails who acts as Sonic's sidekick. By default, the single-player controls both Sonic and Tails simultaneously; a second player can join in at any time and control Tails separately.",
+		"productImagePath": "assets/img/portfolio/sonic2Logo.png",
+		"productShortDescription": "Sonic the Hedgehog 2 is a 1992 platform game developed by Sega Technical Institute (STI) for the Sega Genesis. It was released in November 1992 to acclaim and received numerous year-end accolades.",
+		"productReview": "Theoretically, the Genesis isn't capable of scaling, but Sonic's Bonus Rounds are gonna make you wonder!",
+		"productVotes": 4
+	},
+	{
+		"productName": "Sonic the Hedgehog 3",
+		"productDescription": "Sonic the Hedgehog 3 is a 2D side-scrolling platformer. As with Sonic the Hedgehog 2, players can control Sonic, Tails, or both simultaneously. In the former choice, players control Sonic while Tails runs along beside him; a second player can join at any time and control Tails separately. Sonic 3 adds the ability for Tails to fly for a short time by spinning his twin tails like a helicopter rotor; when he tires, he falls. Unlike Sonic, Tails can also swim underwater.",
+		"productImagePath": "assets/img/portfolio/sonic3Logo.png",
+		"productShortDescription": "Sonic 3 was released in North America and Europe in February 1994, and in Japan in May. As with its predecessors, it was a critical and commercial success, with critics seeing it as an improvement over previous installments.",
+		"productReview": "A rollercoaster ride from start to finish.",
+		"productVotes": 3
+	},
+	{
+		"productName": "Final Fantasy VII",
+		"productDescription": "The planet's lifeforce, called the Lifestream, is a flow of spiritual energy that gives life to everything on the Planet. During Final Fantasy VII, the Planet's Lifestream is being drained for energy by the Shinra Electric Power Company, a world-dominating megacorporation headquartered in the city of Midgar. Shinra's actions are weakening the Planet, threatening its existence and all life. Significant factions within the game include AVALANCHE, an eco-terrorist group seeking Shinra's downfall so the Planet can recover.",
+		"productImagePath": "assets/img/portfolio/ff7Logo.png",
+		"productShortDescription": "Final Fantasy VII[b] is a 1997 role-playing video game developed by Square for the PlayStation console. It is the seventh main installment in the Final Fantasy series. It was a commercial success and received critical acclaim, selling more than 13.3 million copies worldwide.",
+		"productReview": "Quite possibly the greatest game ever made.",
+		"productVotes": 7
+	},
+	{
+		"productName": "Metal Gear Solid",
+		"productDescription": "To remain undetected, the player can perform techniques which make use of Snake's abilities and the environment, such as crawling under objects, using boxes as cover, ducking or hiding around walls, and making noise to distract enemies. An on-screen radar provides the player with the location of nearby enemies and their field of vision. Snake can also make use of many items and gadgets, such as infra-red goggles and a cardboard box disguise.",
+		"productImagePath": "assets/img/portfolio/metalGearSolidLogo.png",
+		"productShortDescription": "Metal Gear Solid is a stealth game developed by Konami and released for the PlayStation in 1998. It was well-received critically and commercially, shipping more than six million copies (being the eighth best-selling game on the PlayStation), and scoring an average metascore of 94 out of 100 on Metacritic. It is widely considered to be one of the greatest and most important games of all time, and is heralded as the game that made the stealth genre popular.",
+		"productReview": "Freakin great game!",
+		"productVotes": 8
+	},
+	{
+		"productName": "Grand Turismo",
+		"productDescription": "Simulation mode requires the player to earn different levels of driver's licenses in order to qualify for events, and earn credits (money), trophies and prize cars by winning race championships. Winning one particular championship also unlocks a video and a few additional demonstration tracks. Credits can be used to purchase additional vehicles, and for parts and tuning.",
+		"productImagePath": "assets/img/portfolio/gtLogo.png",
+		"productShortDescription": "Gran Turismo: The Real Driving Simulator in Japan and Europe, is a 1997 racing simulation video game developed by Polys Entertainment and published by Sony Computer Entertainment for the PlayStation video game console. Many publications have deemed it one of the greatest video games of all time.",
+		"productReview": "Raises the bar for racing games on almost every possible level.",
+		"productVotes": 1
+	}
+]
